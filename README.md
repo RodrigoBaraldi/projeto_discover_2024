@@ -1,7 +1,7 @@
-<h1 align="center"> DevLinks da RocketSeat</h1>
+<h1 align="center">Revendo alguns conceitos com ajuda da RocketSeat</h1>
 
 <p align="center">
-Este foi um projeto baseado no promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+Este foi um projeto desenvolvido através do DevLinks promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 <a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
 
